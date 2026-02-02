@@ -1,0 +1,1 @@
+I found this github course to be very helpful. I learned about how github works and basic functions like pushing, committing and pulling. 
